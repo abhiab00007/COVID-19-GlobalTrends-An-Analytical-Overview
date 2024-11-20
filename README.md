@@ -1,1 +1,1 @@
-# COVID-19-GlobalTrends-An-Analytical-Overview
+# COVID-19 GlobalTrends-An Analytical Overview
