@@ -18,7 +18,7 @@ data tables from kaggle are imported to PowerBI and data is thoroughly preproces
 8. Managing relationships:Linked tables to establish relationships where required using the Manage Relationships pane, all relationships were set to the appropriate Cardinality
 9. Validation and Finalization
 
-## <u>Visualisations</u>
+## <u>Visualisations:</u>
 
 visualisations are added to both content pages of the project  to convey insights effectively:
  
@@ -49,7 +49,7 @@ The map shows infection densities across the globe using color-coded ranges. It 
 ### <u>Slicer:</u>
 WHO Region Filter :This slicer allows viewers to isolate data by WHO regions for a more detailed regional analysis. It helps compare metrics across Africa, Europe, the Americas, and other  WHO regions.
 
-### <u>Interactive elements</u>
+### <u>Interactive elements:</u>
 Buttons, Bookmarks and Images are Incorporated to enhance user experience and to complement data analysis:
 buttons are added on each pages to make effective navigavtion to pages that come before and after them.
 A book mark is added to each page to smoothen slideshows.
