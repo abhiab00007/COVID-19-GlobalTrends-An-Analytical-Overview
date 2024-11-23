@@ -3,7 +3,7 @@
 Dataset chosen: https://www.kaggle.com/datasets/imdevskp/corona-virus-report
 data tables from kaggle are imported to PowerBI and data is thoroughly preprocessed using DAX Expressions to ensure data quality.
 
-<u>Data Preprocessing Steps:</u>
+## <u>Data Preprocessing Steps:</u>
 
 1. Data Loading:Import and review
 2. Data Cleaning:Eliminated irrelevant rows and columns that did not add value to the analysis (e.g., null headers or redundant metadata).
@@ -18,8 +18,10 @@ infection density per million people and testing efficiency from worldometer dat
 8. Managing relationships:Linked tables to establish relationships where required using the Manage Relationships pane, all relationships were set to the appropriate Cardinality
 9. Validation and Finalization
 
-<u>Many visualisations are added to both content pages of the project  to convey insights effectively:<u/>
+## <u>visualisations</u>
 
+ visulisations are added to both content pages of the project  to convey insights effectively:
+ 
 Page1:
 1. Recovery Rate and Fatality Rate Cards:
 to represent the percentage of recovered cases and fatalities out of total reported cases globally. They highlight the balance between recovery success and the pandemic's lethality.
