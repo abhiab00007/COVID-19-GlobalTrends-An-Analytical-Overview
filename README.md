@@ -10,8 +10,8 @@ data tables from kaggle are imported to PowerBI and data is thoroughly preproces
 3. Handled Missing Values:Replaced missing values in critical columns with appropriate measures
 3. Data Transformation:Corrected Data Types
 4. Used DAX expressions to create New Measures:
-fatality rate, recovery rate and total confirmed cases from country wise latest table, 
-infection density per million people and testing efficiency from worldometer data table
+   fatality rate, recovery rate and total confirmed cases from country wise latest table, 
+   infection density per million people and testing efficiency from worldometer data table
 5. Enhancing Data:Renamed Columns for Clarity,Adjusted column names for better readability
 6. Added Conditional Formatting:Applied color scales to infection density rates for better visualization.
 7. Created hierarchies (WHO Region → Continent → Country) for region-based analysis.
@@ -20,7 +20,7 @@ infection density per million people and testing efficiency from worldometer dat
 
 ## <u>Visualisations</u>
 
- visulisations are added to both content pages of the project  to convey insights effectively:
+visualisations are added to both content pages of the project  to convey insights effectively:
  
 Page1:
 1. Recovery Rate and Fatality Rate Cards:
@@ -46,10 +46,11 @@ This chart represents the distribution of active cases across continents. It hig
 5. Infection Density Range Across Regions (Filled Map):
 The map shows infection densities across the globe using color-coded ranges. It highlights regional hotspots and areas with fewer cases.
 
-### Slicer:
+### <u>Slicer:</u>
 WHO Region Filter :This slicer allows viewers to isolate data by WHO regions for a more detailed regional analysis. It helps compare metrics across Africa, Europe, the Americas, and other  WHO regions.
 
-interactive elements like Buttons, Bookmarks and Images are Incorporated to enhance user experience and to complement data analysis:
+### <u>Interactive elements</u>
+Buttons, Bookmarks and Images are Incorporated to enhance user experience and to complement data analysis:
 buttons are added on each pages to make effective navigavtion to pages that come before and after them.
 A book mark is added to each page to smoothen slideshows.
 Another bookmark is used for clearing the selections in the WHO Region slicer
