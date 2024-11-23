@@ -18,7 +18,7 @@ infection density per million people and testing efficiency from worldometer dat
 8. Managing relationships:Linked tables to establish relationships where required using the Manage Relationships pane, all relationships were set to the appropriate Cardinality
 9. Validation and Finalization
 
-## <u>visualisations</u>
+## <u>Visualisations</u>
 
  visulisations are added to both content pages of the project  to convey insights effectively:
  
